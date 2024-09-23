@@ -203,10 +203,10 @@ Resources related to my Lift Your Admin Up By The Bootstrap presentation at the 
 
 ### Policy
 
-- - - Script
-            - [FileVault2_Scripts/reissueKey.sh at master · jamf/FileVault2_Scripts (github.com)](https://github.com/jamf/FileVault2_Scripts/blob/master/reissueKey.sh)
-      - Maintenance
-        - Update Inventory
+- Script
+  - [FileVault2_Scripts/reissueKey.sh at master · jamf/FileVault2_Scripts (github.com)](https://github.com/jamf/FileVault2_Scripts/blob/master/reissueKey.sh)
+- Maintenance
+  - Update Inventory
 
 &nbsp;
 
