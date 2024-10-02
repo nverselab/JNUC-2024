@@ -1,6 +1,8 @@
 # JNUC-2024
 Resources related to my Lift Your Admin Up By The Bootstrap presentation at the JNUC Spotlight in 2024.
 
+Watch the Presentation: [https://youtu.be/wK8zcF8hryE](https://youtu.be/wK8zcF8hryE)
+
 ## The problems to be solved
 
 &nbsp;
