@@ -1,8 +1,7 @@
 # JNUC-2024
 Resources related to my Lift Your Admin Up By The Bootstrap presentation at the JNUC Spotlight in 2024.
 
-Watch the Hotel Room Version of the Presentation (Bad Audio): [https://youtu.be/wK8zcF8hryE](https://youtu.be/wK8zcF8hryE)<br>
-Watch the CDW branded version (Better Audio): [Coming Soon](https://youtu.be/REfOlOWAi7A)
+Watch the CDW branded version: [https://www.youtube.com/watch?v=Hzo6DYlSlx8](https://www.youtube.com/watch?v=Hzo6DYlSlx8)
 
 ## The problems to be solved
 
